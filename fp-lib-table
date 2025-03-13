@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ACSI2ST")(type "KiCad")(uri "${KIPRJMOD}/ACSI2ST.pretty")(options "")(descr ""))
+)
